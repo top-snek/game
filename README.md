@@ -1,3 +1,1 @@
-# game
-game
 go away
